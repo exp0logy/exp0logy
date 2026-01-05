@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on **Building my github portfolio and furthering my skills**
 
-- 🌱 I’m currently studying **Diploma in Information Technology (Back-End Web Development).**
-
 - 📫 How to reach me **exp0logy@outlook.com**
 
-- ⚡ Fun fact **I am a qualified Diesel Mechanic with a Certificate 3 in Automotive Airconditioning.**
+- ⚡ Fun fact **I am a qualified Diesel Mechanic with a Certificate 3 in Automotive Airconditioning and a Certificate IV in Information Technology (Networking).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
