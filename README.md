@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **exp0logy@outlook.com**
 
-- ⚡ Fun fact **I am a qualified Diesel Mechanic with a Certificate 3 in Automotive Airconditioning and a Certificate IV in Information Technology (Networking).**
+- ⚡ Fun fact **I am a qualified Diesel Mechanic with a Certificate 3 in Automotive Airconditioning and a Certificate IV in Information Technology (Networking). Currently Enrolled in Diploma of Cyber Sec.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
