@@ -16,9 +16,9 @@ export default function Contact() {
               Need a website, a web app, or a full platform shipped to
               production? Send me an email and I will get back to you.
             </p>
-            <a href="mailto:jwallace@greaterwestern.com.au" className="btn btn-primary">
+            <a href="mailto:exp0logy@outlook.com" className="btn btn-primary">
               <Mail />
-              jwallace@greaterwestern.com.au
+              exp0logy@outlook.com
             </a>
           </SnakeCard>
         </div>

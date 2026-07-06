@@ -16,7 +16,7 @@ export default function Footer() {
             <GitHub />
           </a>
           <a
-            href="mailto:jwallace@greaterwestern.com.au"
+            href="mailto:exp0logy@outlook.com"
             className="footer-link"
             aria-label="Email Josh Wallace"
           >
