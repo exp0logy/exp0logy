@@ -1,6 +1,6 @@
 export type Project = {
   name: string;
-  status: "Production" | "Demo";
+  status: "Production" | "Completed" | "Demo";
   description: string;
   stack: string[];
   url: string;
@@ -24,6 +24,14 @@ export const production: Project[] = [
       "Web platform for North Central Midlands Transport, serving real users in production. Built and deployed end to end, from data layer to UI to infrastructure.",
     stack: ["React", "TypeScript", "Node.js", "Postgres"],
     url: "https://ncmt.com.au",
+  },
+  {
+    name: "Metis Ninjas",
+    status: "Completed",
+    description:
+      "NFT minting dapp for the Metis Ninjas collection on the Metis Andromeda L2: wallet connection, automatic network switching, and tiered mint pricing against the collection's smart contract. Project completed; site remains live.",
+    stack: ["React", "Redux", "web3.js", "Bootstrap"],
+    url: "https://metisninjas.netlify.app",
   },
 ];
 

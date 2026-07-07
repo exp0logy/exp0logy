@@ -69,10 +69,10 @@ export default function Projects() {
       <div className="container">
         <div ref={headRef} className="section-head reveal">
           <span className="eyebrow">Work</span>
-          <h2 className="section-title">In production</h2>
+          <h2 className="section-title">Client work</h2>
           <p className="section-sub">
-            Real platforms with real users, built end to end and running in
-            production today.
+            Real platforms with real users, built end to end and shipped to
+            production.
           </p>
         </div>
         <div className="grid-production">
