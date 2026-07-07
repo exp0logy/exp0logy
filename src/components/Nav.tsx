@@ -3,7 +3,7 @@ export default function Nav() {
     <header className="nav">
       <div className="container nav-inner">
         <a href="#top" className="logo" aria-label="Josh Wallace, back to top">
-          <span className="logo-mark snake-ring" aria-hidden="true">
+          <span className="logo-mark" aria-hidden="true">
             JW
           </span>
           Josh Wallace
